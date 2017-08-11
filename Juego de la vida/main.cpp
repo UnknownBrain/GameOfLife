@@ -29,8 +29,9 @@ class Board {
 
 int main() {
 	int xTam, yTam;
-	//This is a simple comment for git testing. :)
-	cout << "This is game Conway's Game of Life! :D" << endl;
+
+	cout << "This is Conway's Game of Life! :D" << endl;
+
 	//Asking to user how big the board is gonna be
 	cout << "Input the Board's width: "; 
 	cin >> xTam;
