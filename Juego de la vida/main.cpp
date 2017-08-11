@@ -29,7 +29,7 @@ class Board {
 
 int main() {
 	int xTam, yTam;
-
+	cout << "This is game Conway's Game of Life! :D" << endl;
 	//Asking to user how big the board is gonna be
 	cout << "Input the Board's width: "; 
 	cin >> xTam;
